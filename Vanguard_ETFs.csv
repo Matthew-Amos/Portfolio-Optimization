@@ -1,0 +1,76 @@
+Category,Name,Symbol,Class,ER
+Treasury/Agency,Extended Duration Treasury ETF,EDV,Bond - Long-term Government,0.07%
+Treasury/Agency,Vanguard Select FundsIntermediate-Term Bond ETF,BIV,Bond - Inter-term Investment,0.05%
+Treasury/Agency,Intermediate-Term Treasury ETF,VGIT,Bond - Inter-term Government,0.05%
+Treasury/Agency,Vanguard Select FundsLong-Term Bond ETF,BLV,Bond - Long-term Investment,0.05%
+Treasury/Agency,Long-Term Treasury ETF,VGLT,Bond - Long-term Government,0.05%
+Treasury/Agency,Mortgage-Backed Securities ETF,VMBS,Bond - Inter-term Government,0.05%
+Treasury/Agency,Vanguard Select FundsShort-Term Bond ETF,BSV,Bond - Short-term Investment,0.05%
+Treasury/Agency,Vanguard Select FundsShort-Term Inflation-Protected Securities ETF,VTIP,Bond - Short-term Government,0.05%
+Treasury/Agency,Short-Term Treasury ETF,VGSH,Bond - Short-term Government,0.05%
+Treasury/Agency,Vanguard Select FundsTotal Bond Market ETF,BND,Bond - Inter-term Investment,0.035%
+Investment-grade,ESG U.S. Corporate Bond ETF,VCEB,Bond - Inter-term Investment,0.12%
+Investment-grade,Intermediate-Term Corporate Bond ETF,VCIT,Bond - Inter-term Investment,0.05%
+Investment-grade,Long-Term Corporate Bond ETF,VCLT,Bond - Long-term Investment,0.05%
+Investment-grade,Short-Term Corporate Bond ETF,VCSH,Bond - Short-term Investment,0.05%
+Investment-grade,Total Corporate Bond ETF,VTC,Bond - Inter-term Investment,0.05%
+Tax-exempt,Vanguard Select FundsTax-Exempt Bond ETF,VTEB,Bond - Inter-term National Muni,0.06%
+U.S. stock ETFs – Large-cap,Dividend Appreciation ETF,VIG,Stock - Large-Cap Blend,0.06%
+U.S. stock ETFs – Large-cap,ESG U.S. Stock ETF,ESGV,Stock - Large-Cap Blend,0.12%
+U.S. stock ETFs – Large-cap,Growth ETF,VUG,Stock - Large-Cap Growth,0.04%
+U.S. stock ETFs – Large-cap,High Dividend Yield ETF,VYM,Stock - Large-Cap Value,0.06%
+U.S. stock ETFs – Large-cap,Large-Cap ETF,VV,Stock - Large-Cap Blend,0.04%
+U.S. stock ETFs – Large-cap,Mega Cap ETF,MGC,Stock - Large-Cap Blend,0.07%
+U.S. stock ETFs – Large-cap,Mega Cap Growth ETF,MGK,Stock - Large-Cap Growth,0.07%
+U.S. stock ETFs – Large-cap,Mega Cap Value ETF,MGV,Stock - Large-Cap Value,0.07%
+U.S. stock ETFs – Large-cap,Russell 1000 ETF,VONE,Stock - Large-Cap Blend,0.08%
+U.S. stock ETFs – Large-cap,Russell 1000 Growth ETF,VONG,Stock - Large-Cap Growth,0.08%
+U.S. stock ETFs – Large-cap,Russell 1000 Value ETF,VONV,Stock - Large-Cap Value,0.08%
+U.S. stock ETFs – Large-cap,Russell 3000 ETF,VTHR,Stock - Large-Cap Blend,0.10%
+U.S. stock ETFs – Large-cap,Vanguard Select FundsS&P 500 ETF,VOO,Stock - Large-Cap Blend,0.03%
+U.S. stock ETFs – Large-cap,S&P 500 Growth ETF,VOOG,Stock - Large-Cap Growth,0.10%
+U.S. stock ETFs – Large-cap,S&P 500 Value ETF,VOOV,Stock - Large-Cap Value,0.10%
+U.S. stock ETFs – Large-cap,Vanguard Select FundsTotal Stock Market ETF,VTI,Stock - Large-Cap Blend,0.03%
+U.S. stock ETFs – Large-cap,Value ETF,VTV,Stock - Large-Cap Value,0.04%
+U.S. stock ETFs – Mid-cap,Vanguard Select FundsExtended Market ETF,VXF,Stock - Mid-Cap Blend,0.06%
+U.S. stock ETFs – Mid-cap,Mid-Cap ETF,VO,Stock - Mid-Cap Blend,0.04%
+U.S. stock ETFs – Mid-cap,Mid-Cap Growth ETF,VOT,Stock - Mid-Cap Growth,0.07%
+U.S. stock ETFs – Mid-cap,Mid-Cap Value ETF,VOE,Stock - Mid-Cap Value,0.07%
+U.S. stock ETFs – Mid-cap,S&P Mid-Cap 400 ETF,IVOO,Stock - Mid-Cap Blend,0.10%
+U.S. stock ETFs – Mid-cap,S&P Mid-Cap 400 Growth ETF,IVOG,Stock - Mid-Cap Growth,0.15%
+U.S. stock ETFs – Mid-cap,S&P Mid-Cap 400 Value ETF,IVOV,Stock - Mid-Cap Value,0.15%
+U.S. stock ETFs – Small-cap,Russell 2000 ETF,VTWO,Stock - Small-Cap Blend,0.10%
+U.S. stock ETFs – Small-cap,Russell 2000 Growth ETF,VTWG,Stock - Small-Cap Growth,0.15%
+U.S. stock ETFs – Small-cap,Russell 2000 Value ETF,VTWV,Stock - Small-Cap Value,0.15%
+U.S. stock ETFs – Small-cap,S&P Small-Cap 600 ETF,VIOO,Stock - Small-Cap Blend,0.10%
+U.S. stock ETFs – Small-cap,S&P Small-Cap 600 Growth ETF,VIOG,Stock - Small-Cap Growth,0.15%
+U.S. stock ETFs – Small-cap,S&P Small-Cap 600 Value ETF,VIOV,Stock - Small-Cap Value,0.15%
+U.S. stock ETFs – Small-cap,Small-Cap ETF,VB,Stock - Small-Cap Blend,0.05%
+U.S. stock ETFs – Small-cap,Small-Cap Growth ETF,VBK,Stock - Small-Cap Growth,0.07%
+U.S. stock ETFs – Small-cap,Small-Cap Value ETF,VBR,Stock - Small-Cap Value,0.07%
+International bond ETFs – Global,Total World Bond ETF,BNDW,International,0.06%
+International bond ETFs,Vanguard Select FundsTotal International Bond ETF,BNDX,International,0.08%
+Emerging markets,Emerging Markets Government Bond ETF,VWOB,International,0.25%
+International stock ETFs – Global,Total World Stock ETF,VT,International,0.08%
+International,ESG International Stock ETF,VSGX,International,0.15%
+International,FTSE All-World ex-US ETF,VEU,International,0.08%
+International,FTSE All-World ex-US Small-Cap ETF,VSS,International,0.11%
+International,Vanguard Select FundsFTSE Developed Markets ETF,VEA,International,0.05%
+International,FTSE Europe ETF,VGK,International,0.08%
+International,FTSE Pacific ETF,VPL,International,0.08%
+International,Global ex-U.S. Real Estate ETF,VNQI,International,0.12%
+International,International Dividend Appreciation ETF,VIGI,International,0.20%
+International,International High Dividend Yield ETF,VYMI,International,0.27%
+International,Vanguard Select FundsTotal International Stock ETF,VXUS,International,0.08%
+Emerging markets,Vanguard Select FundsFTSE Emerging Markets ETF,VWO,International,0.10%
+Sector & specialty ETFs,Communication Services ETF,VOX,Stock - Sector,0.10%
+Sector & specialty ETFs,Consumer Discretionary ETF,VCR,Stock - Sector,0.10%
+Sector & specialty ETFs,Consumer Staples ETF,VDC,Stock - Sector,0.10%
+Sector & specialty ETFs,Energy ETF,VDE,Stock - Sector,0.10%
+Sector & specialty ETFs,Financials ETF,VFH,Stock - Sector,0.10%
+Sector & specialty ETFs,Health Care ETF,VHT,Stock - Sector,0.10%
+Sector & specialty ETFs,Industrials ETF,VIS,Stock - Sector,0.10%
+Sector & specialty ETFs,Information Technology ETF,VGT,Stock - Sector,0.10%
+Sector & specialty ETFs,Materials ETF,VAW,Stock - Sector,0.10%
+Sector & specialty ETFs,Real Estate ETF,VNQ,Stock - Sector,0.12%
+Sector & specialty ETFs,Utilities ETF,VPU,Stock - Sector,0.10%
